@@ -1,0 +1,33 @@
+﻿  Game.cpp
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Main_Types\Main_Types\Main_Types.h(25,39): warning C4091: '__declspec(dllimport)': ignored on left of 'Vector2' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Main_Types\Main_Types\Main_Types.h(27,36): warning C4091: '__declspec(dllimport)': ignored on left of 'Mesh' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Main_Types\Main_Types\Main_Types.h(29,36): warning C4091: '__declspec(dllimport)': ignored on left of 'Time' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Main_Types\Main_Types\Main_Types.cpp(203,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Main_Types\Main_Types\Main_Types.cpp(204,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Main_Types\Main_Types\Main_Types.cpp(293,2): warning C4091: 'static ': ignored on left of 'Time' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Main_Types\Main_Types\Main_Types.cpp(289,18): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.h(23,41): warning C4091: '__declspec(dllimport)': ignored on left of 'Mesh' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.h(25,49): warning C4091: '__declspec(dllimport)': ignored on left of 'SpriteObject' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.h(27,48): warning C4091: '__declspec(dllimport)': ignored on left of 'ScreenClass' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.h(29,48): warning C4091: '__declspec(dllimport)': ignored on left of 'ConsoleInfo' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.h(31,43): warning C4091: '__declspec(dllimport)': ignored on left of 'Camera' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.h(33,41): warning C4091: '__declspec(dllimport)': ignored on left of 'Draw' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.cpp(16,32): warning C4244: '=': conversion from 'float' to 'SHORT', possible loss of data
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.cpp(17,32): warning C4244: '=': conversion from 'float' to 'SHORT', possible loss of data
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.cpp(31,2): warning C4091: 'static ': ignored on left of 'ScreenClass' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.cpp(134,2): warning C4091: 'static ': ignored on left of 'ConsoleInfo' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.cpp(92,42): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.cpp(226,2): warning C4091: 'static ': ignored on left of 'Draw' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.cpp(144,42): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.cpp(149,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.cpp(154,34): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.cpp(158,32): warning C4244: '=': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Graphic_Library\Graphic_Library\Graphic_Library.cpp(159,32): warning C4244: '=': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Physical_Library\Physical_Library\Physical_Library.h(23,52): warning C4091: '__declspec(dllimport)': ignored on left of 'PhysicalObject' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Physical_Library\Physical_Library\Physical_Library.h(25,51): warning C4091: '__declspec(dllimport)': ignored on left of 'UpdatePhysics' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Physical_Library\Physical_Library\Physical_Library.cpp(80,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Physical_Library\Physical_Library\Physical_Library.cpp(222,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\Libraries\Physical_Library\Physical_Library\Physical_Library.cpp(221,12): warning C4102: 'start_check': unreferenced label
+C:\Users\genna\source\repos\Engine\Game\CoreEngine\CoreEngine\CoreEngine.h(28,43): warning C4091: '__declspec(dllimport)': ignored on left of 'GameObject' when no variable is declared
+C:\Users\genna\source\repos\Engine\Game\Game\Game.cpp(54,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  Game.vcxproj -> C:\Users\genna\source\repos\Engine\Game\Debug\Game.exe
